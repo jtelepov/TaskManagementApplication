@@ -1,1 +1,1 @@
-# Task management application
+# JavaFX task management application
